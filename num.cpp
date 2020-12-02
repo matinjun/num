@@ -15,6 +15,7 @@ int main() {
 		a0 = tmp;
 	}
 	std::cout << "...more\n" ;
+	std::cout << "It grows rappidly\n";
 	return 0;
 }
 
