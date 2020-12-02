@@ -16,6 +16,7 @@ int main() {
 	}
 	std::cout << "...more\n" ;
 	std::cout << "It grows rappidly\n";
+	std::cout << "awsome\n";
 	return 0;
 }
 
